@@ -1,4 +1,4 @@
-# <a href="Google.com" >GeoSEO </a>
+# <a href="Google.com" >GeoSEO - Click to Visit our website </a>
 
 <a href="https://www.instagram.com/farazghani_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/farazghani_/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
@@ -9,7 +9,8 @@ Hello there! 👋 Welcome to GeoSEO, your one-stop destination for Expert SEO Se
 
 # Screenshot
 <!-- Add image -->
-![GeoSEO]()
+![image](https://github.com/Faraz-Ghani/GeoSEO/assets/111528872/cf3c6407-965c-4688-93a5-119368e3a4bc)
+
 
 This is a website that we have created and deployed on azure for our assignment.
 

@@ -5,8 +5,7 @@
 
 Hello there! 👋 Welcome to GeoSEO, your one-stop destination for Expert SEO Services for local businesses. We're thrilled to have you on board and can't wait to show you around.
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SCD Project;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Increase+Reach%2C+Generate+Sales)](https://git.io/typing-svg)
 
 # Screenshot
 <!-- Add image -->

@@ -1,6 +1,6 @@
 # <a href="https://purple-pond-0e47adf0f.4.azurestaticapps.net/" >GeoSEO - Click to Visit our website </a>
 
-<a href="https://www.instagram.com/farazghani_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/farazghani_/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/farazghani_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/farazg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 
 Hello there! 👋 Welcome to GeoSEO, your one-stop destination for Expert SEO Services for local businesses. We're thrilled to have you on board and can't wait to show you around.

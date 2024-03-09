@@ -19,50 +19,54 @@ Explore our website to discover the full range of our services and learn how Geo
 
 This is a website that we have created and deployed on azure for our assignment.
 
-### Team Members
-Muhammad Moiz (21SWX127)
-Faraz Ghani (21SW081)
-Muhammad Daniyal (21SW003)
+# Team Members
 
-### Contributions:
+1. Muhammad Moiz (21SWX127)
 
-Daniyal
+2. Faraz Ghani (21SW081)
 
-Footer: Implemented the footer section with responsive design.
+3. Muhammad Daniyal (21SW003)
+   
 
-Home Section: Designed and developed the main homepage section, ensuring a user-friendly layout.
+# Contributions:
 
-Expertise Section: Created the expertise section, highlighting the team's skills and specialties.
+**Daniyal**
 
-Readme: Updated the project's README file with relevant information, including installation instructions and project details.
+**Footer:** Implemented the footer section with responsive design.
 
+**Home Section:** Designed and developed the main homepage section, ensuring a user-friendly layout.
 
-Moiz
+**Expertise Section:** Created the expertise section, highlighting the team's skills and specialties.
 
-About Section: Crafted the about section to provide comprehensive information about the project and its contributors.
-
-Navbar: Implemented the navigation bar for seamless user experience and easy access to different sections.
-
-Images and Initiating Index: Added relevant images to enhance visual appeal and initiated the index page for project navigation.
+**Readme:** Updated the project's README file with relevant information, including installation instructions and project details.
 
 
-Faraz
+**Moiz**
 
-Contact Form Section: Integrated a contact form section, ensuring proper functionality and validation.
+**About Section:** Crafted the about section to provide comprehensive information about the project and its contributors.
 
-Edits and Updates: Implemented various edits and updates across the project for enhanced performance and user experience.
+**Navbar:** Implemented the navigation bar for seamless user experience and easy access to different sections.
 
-CSS, JavaScript, and SCSS: Applied styling using CSS and SCSS for a polished appearance.
+**Images and Initiating Index:** Added relevant images to enhance visual appeal and initiated the index page for project navigation.
+
+
+**Faraz**
+
+**Contact Form Section:** Integrated a contact form section, ensuring proper functionality and validation.
+
+**Edits and Updates:** Implemented various edits and updates across the project for enhanced performance and user experience.
+
+**CSS, JavaScript, and SCSS:** Applied styling using CSS and SCSS for a polished appearance.
 Implemented JavaScript functionalities to enhance user interactions.
 
 
 
 
-### Usage
+# Usage
 
 You are free to download and use this website for personal projects, educational purposes, or for non-commercial use. However, any public or commercial use, including publishing, marketing, or using it in a commercial project, is not permitted without explicit permission.
 
-# Conclusion:
+# Conclusion
 
 Building the GeoSEO website was a team effort! All 3 of us worked really hard on it and made it a success, we have brought our unique skills to the table. Now, thanks to everyone's hard work, the website does a great job of showing off what GeoSEO can do in SEO services, digital marketing, and creative graphic design.
 

@@ -30,7 +30,7 @@ This is a website that we have created and deployed on azure for our assignment.
 
 # Contributions:
 
-**Daniyal**
+1. **Daniyal**
 
 **Footer:** Implemented the footer section with responsive design.
 
@@ -41,7 +41,8 @@ This is a website that we have created and deployed on azure for our assignment.
 **Readme:** Updated the project's README file with relevant information, including installation instructions and project details.
 
 
-**Moiz**
+
+2. **Moiz**
 
 **About Section:** Crafted the about section to provide comprehensive information about the project and its contributors.
 
@@ -50,7 +51,8 @@ This is a website that we have created and deployed on azure for our assignment.
 **Images and Initiating Index:** Added relevant images to enhance visual appeal and initiated the index page for project navigation.
 
 
-**Faraz**
+
+3. **Faraz**
 
 **Contact Form Section:** Integrated a contact form section, ensuring proper functionality and validation.
 
